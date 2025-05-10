@@ -1,0 +1,10 @@
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\Odev5\Odev5\obj\Debug\Odev5.csproj.AssemblyReference.cache
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\Odev5\Odev5\obj\Debug\Odev5.Form1.resources
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\Odev5\Odev5\obj\Debug\Odev5.Properties.Resources.resources
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\Odev5\Odev5\obj\Debug\Odev5.csproj.GenerateResource.cache
+D:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\Odev5\Odev5\obj\Debug\Odev5.csproj.CoreCompileInputs.cache
+d:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\Odev5\Odev5\bin\Debug\Odev5.exe.config
+d:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\Odev5\Odev5\bin\Debug\Odev5.exe
+d:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\Odev5\Odev5\bin\Debug\Odev5.pdb
+d:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\Odev5\Odev5\obj\Debug\Odev5.exe
+d:\Users\cagri\OneDrive\Masaüstü\NTP FORMS\Odev5\Odev5\obj\Debug\Odev5.pdb

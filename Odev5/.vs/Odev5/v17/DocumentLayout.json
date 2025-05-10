@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\cagri\\OneDrive\\Masa\u00FCst\u00FC\\NTP FORMS\\Odev5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77101A64-274C-4AEC-9013-08CEDF4B6D10}|Odev5\\Odev5.csproj|d:\\users\\cagri\\onedrive\\masa\u00FCst\u00FC\\ntp forms\\odev5\\odev5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77101A64-274C-4AEC-9013-08CEDF4B6D10}|Odev5\\Odev5.csproj|solutionrelative:odev5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77101A64-274C-4AEC-9013-08CEDF4B6D10}|Odev5\\Odev5.csproj|D:\\Users\\cagri\\OneDrive\\Masa\u00FCst\u00FC\\NTP FORMS\\Odev5\\odev5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77101A64-274C-4AEC-9013-08CEDF4B6D10}|Odev5\\Odev5.csproj|solutionrelative:odev5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77101A64-274C-4AEC-9013-08CEDF4B6D10}|Odev5\\Odev5.csproj|D:\\Users\\cagri\\OneDrive\\Masa\u00FCst\u00FC\\NTP FORMS\\Odev5\\odev5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77101A64-274C-4AEC-9013-08CEDF4B6D10}|Odev5\\Odev5.csproj|solutionrelative:odev5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 380,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Users\\cagri\\OneDrive\\Masa\u00FCst\u00FC\\NTP FORMS\\Odev5\\Odev5\\Form1.cs",
+              "RelativeDocumentMoniker": "Odev5\\Form1.cs",
+              "ToolTip": "D:\\Users\\cagri\\OneDrive\\Masa\u00FCst\u00FC\\NTP FORMS\\Odev5\\Odev5\\Form1.cs",
+              "RelativeToolTip": "Odev5\\Form1.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:40:46.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\cagri\\OneDrive\\Masa\u00FCst\u00FC\\NTP FORMS\\Odev5\\Odev5\\Program.cs",
+              "RelativeDocumentMoniker": "Odev5\\Program.cs",
+              "ToolTip": "D:\\Users\\cagri\\OneDrive\\Masa\u00FCst\u00FC\\NTP FORMS\\Odev5\\Odev5\\Program.cs",
+              "RelativeToolTip": "Odev5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:36:15.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\Users\\cagri\\OneDrive\\Masa\u00FCst\u00FC\\NTP FORMS\\Odev5\\Odev5\\Form1.cs",
+              "RelativeDocumentMoniker": "Odev5\\Form1.cs",
+              "ToolTip": "d:\\Users\\cagri\\OneDrive\\Masa\u00FCst\u00FC\\NTP FORMS\\Odev5\\Odev5\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Odev5\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:35:25.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
